@@ -1,4 +1,4 @@
-from polynomials import Polynomial 
+from polynomials import Polynomial
 import pytest
  
 def test_print():
